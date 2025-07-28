@@ -26,7 +26,7 @@ docker run -p 3000:3000 -v folder-path-for-outputs:/app/output mnist-gan
 ```folder-path-for-ouputs``` is the path of the folder where generated images needs to be stored.
 
 ## Results
-Generated images are stored in ```folder-path-for-ouputs```. Realistic generation of numbers' images,<br/>
+Generated images are stored in ```folder-path-for-ouputs```. Generation of numbers' images,<br/>
 
 <img src="docs/gan_flowchart.png" width="800" class="center"/>
 
