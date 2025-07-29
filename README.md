@@ -1,5 +1,5 @@
 # Generative Adversarial Network (GAN) for image generation on MNIST dataset
-Implementation of GAN model for image generation on MNIST dataset. Synthetic image generation of fruits using Generative Adversarial Network(GAN) model. 
+Implementation of GAN model for image generation on MNIST dataset. Synthetic image generation of handwritten numbers using GAN model. 
 
 ## Input Dataset
 MNIST dataset is the input dataset for the generative model. Dataset of size 60,000 samples have been used for training.
