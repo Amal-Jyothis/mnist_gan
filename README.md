@@ -28,6 +28,6 @@ docker run -p 3000:3000 -v folder-path-for-outputs:/app/output mnist-gan
 ## Results
 Generated images are stored in ```folder-path-for-ouputs```. Generation of numbers' images,<br/>
 
-<img src="docs/gan_flowchart.png" width="800" class="center"/>
+<img src="docs/gan_flowchart.jpg" width="800" class="center"/>
 
 
